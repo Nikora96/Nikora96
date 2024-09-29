@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikora96
 - 👀 I’m interested in Computer Programming, Artificial Intelligence, Big Data, Teaching 
-- 🌱 I’m currently learning Computer Science/Artificial Intelligence at Padua University
+- 🌱 Computer Science / University of Padua (Graduated) | Artificial Intelligence / University of Ferrara (Student)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
